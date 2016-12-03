@@ -1,0 +1,1 @@
+double mediane(int*, int);
